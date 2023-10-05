@@ -1,6 +1,7 @@
 
 public class LazyInitializedSingleton {
 
+
     private static LazyInitializedSingleton instance;
 
     private LazyInitializedSingleton(){}
